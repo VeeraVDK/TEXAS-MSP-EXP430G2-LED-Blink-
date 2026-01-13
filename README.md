@@ -1,6 +1,9 @@
 # TEXAS-MSP-EXP430G2-LED-Blink-
 
 
+/*hello everyone this is my first try on programming a controller and i have successfully completed it.
+
+i have used MSP-EXP430G2 and in this i have done the blinking of the on board led. i have given the code inside the main file also.*/
 //the code i have used
 
 #include <msp430g2553.h> 
