@@ -1,0 +1,5 @@
+main.obj: C:/ti/msp430ware_3_80_14_01/examples/boards/MSP-EXP430G2/MSP-EXP430G2\\ Software\\ Examples/Source/OutOfBox_MSP-EXP430G2/MSP-EXP430G2-LaunchPad/main.c
+main.obj: C:/ti/ccs2040/ccs/ccs_base/msp430/include/msp430g2553.h
+main.obj: C:\ti\ccs2040\ccs\ccs_base\msp430\include\in430.h
+main.obj: C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include/intrinsics.h
+main.obj: C:\ti\ccs2040\ccs\tools\compiler\ti-cgt-msp430_21.6.1.LTS\include\intrinsics_legacy_undefs.h
