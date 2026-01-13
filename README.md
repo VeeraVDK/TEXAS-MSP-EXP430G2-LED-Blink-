@@ -1,6 +1,10 @@
 # TEXAS-MSP-EXP430G2-LED-Blink-
+
+
 //the code i have used
-#include <msp430g2553.h>  // Use SPECIFIC device header!
+
+#include <msp430g2553.h> 
+// Use SPECIFIC device header!
 
 void main(void) {
     // Stop watchdog timer
